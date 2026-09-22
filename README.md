@@ -18,13 +18,22 @@ My focus is applying AI to real-world business problems — improving financial 
 
 ## 🚀 Featured Projects
 
-### Personal Finance Hub
-A financial planning application focused on budgeting, forecasting, retirement planning, and AI-assisted financial decision support.
+## 🚀 Featured Projects
 
-### AI Systems Fundamentals
-A practical guide to modern AI systems for business and finance professionals.
+### 🧠 [AI Systems Fundamentals](https://github.com/zacksuarez/ai-systems-fundamentals)
+A practical guide to modern AI architecture covering LLMs, RAG, embeddings, APIs, workflows, agents, and human-in-the-loop systems.
 
-**Coming next:** RAG, AI automation, FP&A agents, research agents, and enterprise AI management.
+**Focus:** AI Architecture • RAG • Agents • Business Applications
+
+---
+
+### 💰 Personal Finance Hub
+An AI-enabled financial planning application focused on budgeting, forecasting, cash flow, investments, and retirement planning.
+
+**Focus:** FinTech • Financial Planning • AI • Next.js • Supabase
+
+> Currently under active development. Public portfolio/demo details coming soon.
+
 
 ## 🛠️ Technologies & Platforms
 
