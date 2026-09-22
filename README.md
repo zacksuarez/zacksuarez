@@ -18,8 +18,6 @@ My focus is applying AI to real-world business problems — improving financial 
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🧠 [AI Systems Fundamentals](https://github.com/zacksuarez/ai-systems-fundamentals)
 A practical guide to modern AI architecture covering LLMs, RAG, embeddings, APIs, workflows, agents, and human-in-the-loop systems.
 
