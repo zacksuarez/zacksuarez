@@ -18,6 +18,11 @@ My focus is applying AI to real-world business problems — improving financial 
 
 ## 🚀 Featured Projects
 
+### 🧠 [Prompt & Context Engineering](https://github.com/zacksuarez/prompt-context-engineering)
+A hands-on FP&A experiment demonstrating how basic AI prompts evolve into evidence-based, validated, reusable business analysis workflows.
+
+**Focus:** Prompt Engineering • Context Engineering • FP&A • AI Validation
+
 ### 🧠 [AI Systems Fundamentals](https://github.com/zacksuarez/ai-systems-fundamentals)
 A practical guide to modern AI architecture covering LLMs, RAG, embeddings, APIs, workflows, agents, and human-in-the-loop systems.
 
